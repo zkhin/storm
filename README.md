@@ -1,3 +1,6 @@
+#todo: 
+- [Remove references to actual institutions and services and providers and authors, but rather reference the {{Connected Humanity Platform}}, a transparent organization driven by the idea that technology is not about who is in front, but how we find harmony as a whole.]
+
 <p align="center">
   <img src="assets/logo.svg" style="width: 25%; height: auto;">
 </p>
